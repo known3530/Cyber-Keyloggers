@@ -6,7 +6,7 @@ import win32gui  # For window hiding
 import win32con  # For window hiding
 
 # Configuration
-LINUX_SERVER_IP = "192.168.31.201"  # Replace with Linux IP
+LINUX_SERVER_IP = "Your_ip"  # Replace with Linux IP
 LINUX_PORT = 5555
 
 # Global variables
